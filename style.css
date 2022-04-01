@@ -1,0 +1,22 @@
+.note {
+font-size : 22px;
+color : red;
+font-style: italic;
+margin-top: 4px;
+}
+canvas {
+border : 5px solid white;
+border-radius: 50px;
+}
+.copy-right-footer {
+color : white;
+font-weight: bold;
+font-style: italic;
+background-color: silver;
+font-size : 22px;
+line-height: 3;
+position : fixed;
+bottom : 0;
+width : 100%;
+text-align: center;
+}
